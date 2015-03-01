@@ -5,3 +5,7 @@ The original function did not support scaling for the font size of vertex labels
 ex.
 vertex.label.cex=2 will double the font size of the vertex labels.
 vertex.label.cex=0.5 will halve the font size of the vertex labels.
+
+Install this package by using the following command from the R console.
+
+install.packages("filepath", repos=NULL, type="source")
