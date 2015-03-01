@@ -1,0 +1,6 @@
+export(layout.auto, layout.random, layout.circle,
+       layout.spring, layout.kamada.kawai, layout.lgl,
+       layout.fruchterman.reingold.grid, layout.sphere, layout.merge,
+       layout.reingold.tilford, layout.norm, piecewise.layout)
+	   
+export(rglplot.igraph, rglplot2)

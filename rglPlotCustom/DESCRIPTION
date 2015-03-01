@@ -1,0 +1,11 @@
+Package: rglPlotCustom
+Type: Package
+Title: rglPlot with cex (font size) support
+Version: 1.0
+Date: 2015-02-28
+Author: Roy Smith <roy.colton.smith@gmail.com>
+Maintainer: Roy Smith <roy.colton.smith@gmail.com>
+Description: rglPlot method from igraph package that is capable of using cex (font size) conditions for vertex labels.
+				Passing the vertex.label.cex argument will alter the font size as a multiple of the base value.
+				ex. vertex.label.cex=2 (font is double the base size). vertex.label.cex=0.5 (font is half the base size).
+License: GPL
